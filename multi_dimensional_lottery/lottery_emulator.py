@@ -2,7 +2,7 @@
 # How long would it take to hit the lotto #?
 
 from numpy import random as rand
-import pandas as pd
+#import pandas as pd
 winning_ticket = [4, 26, 42, 50, 60, 24]
 # This is the actual winning ticket: [4, 26, 42, 50, 60, 24]
 one_slot = [i + 1 for i in range(70)]
